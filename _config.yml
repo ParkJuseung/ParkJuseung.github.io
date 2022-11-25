@@ -49,8 +49,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Test
-    url:               /test/
+  - title:             Blog
+    url:               /blog/
+  - title:             Example
+    url:               /example/
   - title:             Documentation
     url:               /docs/
   - title:             About
