@@ -1,13 +1,9 @@
 ---
-layout: post
-title: test
-image: 
-  path: /assets/img/blog/jeremy-bishop@0,5x.jpg
-description: >
-  Version 9 is the most complete version of Hydejack yet.
-  Modernized design, big headlines, and big new features.
-sitemap: false
+layout:     post
+title:      Welcome to Jekyll
+categories: [jekyll, blog]
+tags:       [jekyll, blog]
 ---
 
 
-테스트용 포스팅
+test
