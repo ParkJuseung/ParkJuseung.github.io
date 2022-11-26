@@ -4,10 +4,10 @@
 layout: list
 
 # The title of the tag's page.
-title: Block Chain
+title: 블록체인
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: Block Chain
+slug: 블록체인
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 # description: >
