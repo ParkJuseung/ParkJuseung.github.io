@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Introducing Hydejack 9
-categories: blog
+title: Block Chain
+categories: Block Chain
 image: 
   path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >
@@ -9,4 +9,4 @@ description: >
   Modernized design, big headlines, and big new features.
 ---
 
-post test
+block chain
