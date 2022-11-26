@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Block Chain
-categories: Block Chain
+categories: BlockChain
 image: 
   path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >
