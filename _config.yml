@@ -50,7 +50,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Block Chain
-    url:               /Block Chain/    
+    url:               /blockchain/    
 
 
 # Add links to the footer.
