@@ -15,7 +15,7 @@ slug: Algorithm
 
 menu: true
 permalink: /algorithm/
-order: 1
+order: 2
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
 
