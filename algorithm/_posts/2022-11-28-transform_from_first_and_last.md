@@ -1,6 +1,6 @@
 ---
 layout: post
-title: transformFirstAndLast
+title: 01. transformFirstAndLast
 categories:
     - algorithm
 comments: true
