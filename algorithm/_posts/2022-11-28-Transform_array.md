@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 01.transformFirstAndLast
+title: 제목이 왜 안바뀜
 categories:
     - algorithm
 comments: true
