@@ -51,10 +51,10 @@ author:
 menu:
   - title:             About
     url:               /About/
-  - title:             Block Chain
-    url:               /blockchain/
   - title:             Algorithm
-    url:               /algorithm/        
+    url:               /algorithm/  
+  - title:             Node.js
+    url:               /nodejs/      
 
 
 # Add links to the footer.
