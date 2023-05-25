@@ -51,8 +51,6 @@ author:
 menu:
   - title:             About
     url:               /About/
-  - title:             Knowledge
-    url:               /knowledge/ 
   - title:             Node.js
     url:               /nodejs/ 
   - title:             Algorithm
