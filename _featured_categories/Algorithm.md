@@ -1,5 +1,5 @@
 ---
-layout: grid
+layout: list
 title: Algorithm
 slug: algorithm
 type: category
