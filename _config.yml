@@ -51,10 +51,12 @@ author:
 menu:
   - title:             About
     url:               /About/
-  - title:             Algorithm
-    url:               /algorithm/  
+  - title:             Knowledge
+    url:               /knowledge/ 
   - title:             Node.js
-    url:               /nodejs/      
+    url:               /nodejs/ 
+  - title:             Algorithm
+    url:               /algorithm/      
 
 
 # Add links to the footer.
