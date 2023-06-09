@@ -51,6 +51,8 @@ author:
 menu:
   - title:             About
     url:               /About/
+  - title:             React
+    url:               /react/
   - title:             Node.js
     url:               /nodejs/ 
   - title:             Algorithm

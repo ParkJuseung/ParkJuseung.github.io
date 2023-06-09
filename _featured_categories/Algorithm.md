@@ -5,5 +5,5 @@ slug: algorithm
 type: category
 menu: true
 permalink: /algorithm/
-order: 2
+order: 4
 ---
