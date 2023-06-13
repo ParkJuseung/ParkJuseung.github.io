@@ -55,6 +55,8 @@ menu:
     url:               /react/
   - title:             Node.js
     url:               /nodejs/ 
+  - title:             Javascript
+    url:               /javascript/      
   - title:             Algorithm
     url:               /algorithm/      
 
