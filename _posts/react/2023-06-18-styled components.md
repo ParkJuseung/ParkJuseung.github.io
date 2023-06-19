@@ -49,8 +49,6 @@ export default App;
 ~~~
 만약 <div>에 css를 적용하고 싶으면 styled.div뒤에 ``(따옴표 아니고 backtick 기호임)을 붙이고 이 안에 적용하고 싶은 css 적으면 됩니다. button에 css를 적용하고 싶으면 styled.button 
 
-<img src = "../../image/styled-components 1.png" width = "80%">
+<img src = "../../image/styled-components 1.png" width = "80%"/>
+
 콘솔창에 npm start를 입력해주면 위와 같은 사각형이 생깁니다.
-
-
-
