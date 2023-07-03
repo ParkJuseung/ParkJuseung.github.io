@@ -49,8 +49,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             About
-    url:               /About/
+  - title:             AWS
+    url:               /aws/
   - title:             Java
     url:               /java/      
   - title:             React
