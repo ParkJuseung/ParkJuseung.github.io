@@ -53,12 +53,8 @@ menu:
     url:               /aws/
   - title:             Java
     url:               /java/      
-  - title:             React
-    url:               /react/
   - title:             Node.js
-    url:               /nodejs/ 
-  - title:             Javascript
-    url:               /javascript/      
+    url:               /nodejs/    
   - title:             Algorithm
     url:               /algorithm/      
 
