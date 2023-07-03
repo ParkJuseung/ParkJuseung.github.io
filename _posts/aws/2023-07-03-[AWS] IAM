@@ -1,0 +1,23 @@
+---
+layout: post
+title: '[AWS] IAM'
+categories: aws
+tags: aws
+comments: true
+---
+
+## [AWS] IAM
+
+## IAM이란?
+IAM : Identity and Access Management
+쉽게 말하면, **유저를 관리하고 접근 레벨 및 권한을 관리하는 것이다.**
+
+- 유저에게는 접근키(Access Key)와 비밀키(Secret Access Key)가 주어진다. 이것은 로그인할 때 쓰는 비밀번호가 아님
+- 매우 세밀한 접근 권한 부여가 가능
+- 비밀번호를 수시로 변경하게 함(보안성 증가)
+- 다중 인증 기능(Multi-Factor Authentication)
+- 지역 설정이 필요 없음
+- (그룹 / 유저 / 역할 / 정책) 이 존재한다
+
+
+## IAM 정책 시뮬레이터 
