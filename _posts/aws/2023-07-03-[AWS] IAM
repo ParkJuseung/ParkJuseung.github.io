@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[AWS] IAM'
+title: 'IAM'
 categories: aws
 tags: aws
 comments: true
@@ -18,5 +18,6 @@ IAM : Identity and Access Management
 - 다중 인증 기능(Multi-Factor Authentication)
 - 지역 설정이 필요 없음
 - (그룹 / 유저 / 역할 / 정책) 이 존재한다
+
 
 
