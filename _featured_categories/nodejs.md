@@ -1,9 +1,9 @@
 ---
 layout: list
-title: Nodejs
-slug: nodejs
+title: Spring
+slug: spring
 type: category
 menu: true
-permalink: /nodejs/
+permalink: /spring/
 order: 3
 ---
